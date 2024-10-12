@@ -3,7 +3,7 @@
 _Forge Loader - 47.3.0 | _[Mod Updates](https://github.com/NovaRichCraftStudios/NovaRichCraft-Mod/blob/main/modupdate.md)_ | _[Modlist](https://github.com/NovaRichCraftStudios/NovaRichCraft-Mod/blob/main/modlist.md)_
 
 ### Bug Fixes 🪲
-Resolve a duplication of "Dark Mode" button
+* Resolve a duplication of "Dark Mode" button
 
 ### Changes/Improvements 📈
 * New main menu
