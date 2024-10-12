@@ -1,6 +1,16 @@
+## Craftoria | v0.0.3
+
+_Forge Loader - 47.3.0 | _[Mod Updates](https://github.com/NovaRichCraftStudios/NovaRichCraft-Mod/blob/main/modupdate.md)_ | _[Modlist](https://github.com/NovaRichCraftStudios/NovaRichCraft-Mod/blob/main/modlist.md)_
+
+### Bug Fixes 🪲
+Resolve a duplication of "Dark Mode" button
+
+### Changes/Improvements 📈
+* New main menu
+---
 ## Craftoria | v0.0.2
 
-_Forge Loader - 47.3.0 | _[Mod Updates]()_ | _[Modlist]()_
+_Forge Loader - 47.3.0 | _[Mod Updates](https://github.com/NovaRichCraftStudios/NovaRichCraft-Mod/blob/main/modupdate.md)_ | _[Modlist](https://github.com/NovaRichCraftStudios/NovaRichCraft-Mod/blob/main/modlist.md)_
 
 ### Added Mods ✅
 
@@ -16,3 +26,4 @@ _Forge Loader - 47.3.0 | _[Mod Updates]()_ | _[Modlist]()_
 * [Yung's Better Jungle Temples ](https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples)
 * [Yung's Better Desert Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples)
   
+---
