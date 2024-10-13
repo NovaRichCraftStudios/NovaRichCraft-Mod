@@ -1,3 +1,21 @@
+## NovaRichCraft | v0.0.4
+
+_Forge Loader - 47.3.0 | _[Mod Updates](https://github.com/NovaRichCraftStudios/NovaRichCraft-Mod/blob/main/modupdate.md)_ | _[Modlist](https://github.com/NovaRichCraftStudios/NovaRichCraft-Mod/blob/main/modlist.md)_
+
+### Added Mods ✅
+
+* [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
+* [FTB Xmod](https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat)
+* [ExtraQuests](https://www.curseforge.com/minecraft/mc-mods/extraquests)
+* [Ender Crop](https://www.curseforge.com/minecraft/mc-mods/ender-crop)
+* [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
+* [Ars Elemental](https://www.curseforge.com/minecraft/mc-mods/ars-elemental)
+* [Ice And Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
+
+### Version Info
+This Version is first release. Is playable but without quests 
+---
+
 ## NovaRichCraft | v0.0.3
 
 _Forge Loader - 47.3.0 | _[Mod Updates](https://github.com/NovaRichCraftStudios/NovaRichCraft-Mod/blob/main/modupdate.md)_ | _[Modlist](https://github.com/NovaRichCraftStudios/NovaRichCraft-Mod/blob/main/modlist.md)_
@@ -27,3 +45,4 @@ _Forge Loader - 47.3.0 | _[Mod Updates](https://github.com/NovaRichCraftStudios/
 * [Yung's Better Desert Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples)
   
 ---
+
