@@ -1,4 +1,4 @@
-## Craftoria | v0.0.3
+## NovaRichCraft | v0.0.3
 
 _Forge Loader - 47.3.0 | _[Mod Updates](https://github.com/NovaRichCraftStudios/NovaRichCraft-Mod/blob/main/modupdate.md)_ | _[Modlist](https://github.com/NovaRichCraftStudios/NovaRichCraft-Mod/blob/main/modlist.md)_
 
@@ -8,7 +8,7 @@ _Forge Loader - 47.3.0 | _[Mod Updates](https://github.com/NovaRichCraftStudios/
 ### Changes/Improvements 📈
 * New main menu
 ---
-## Craftoria | v0.0.2
+## NovaRichCraft | v0.0.2
 
 _Forge Loader - 47.3.0 | _[Mod Updates](https://github.com/NovaRichCraftStudios/NovaRichCraft-Mod/blob/main/modupdate.md)_ | _[Modlist](https://github.com/NovaRichCraftStudios/NovaRichCraft-Mod/blob/main/modlist.md)_
 
